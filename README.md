@@ -1,4 +1,4 @@
-# brenbrenbakes
+# brenbrenbakes: Brenna Baker's recipe page
 
 ***
 
@@ -13,7 +13,7 @@ The recipes in this website may look a little different than a traditional websi
 * Clicking on the dropdowns will present the recipes.
 
 ## Supprt:
-If you have any issues, you can email me and we can work it out.
+If you have any issues, you can email me and we can work it out.<br>
 **Email:** brenna.langille@gmail.com
 
 ## Roadmap:
